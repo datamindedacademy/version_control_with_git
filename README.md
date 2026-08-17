@@ -2,6 +2,7 @@
 ## Exercises Repository
 
 
+[![Dataminded Academy](https://raw.githubusercontent.com/datamindedacademy/branding/main/assets/badge.svg)](https://github.com/datamindedacademy)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datamindedacademy/version_control_with_git)
 
 This repository is hosting the exercises provided to students in the context of the `Introduction to Git` course of the Data Minded Academy.
